@@ -2,12 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A modern Netflix-inspired streaming platform built with Next.js, React and Prisma. Streamer allows users to authenticate, manage personal watch lists and enjoy smooth video playback on any device.
+A modern streaming platform built with Next.js, React and Prisma. Streamer allows users to authenticate, manage personal watch lists and enjoy smooth video playback on any device.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Setup](#setup)
   - [Simple Mode Setup](#simple-mode-setup)
   - [Advanced Mode Setup](#advanced-mode-setup)
@@ -29,10 +28,6 @@ A modern Netflix-inspired streaming platform built with Next.js, React and Prism
 - Data fetching via SWR hooks
 - State management through Zustand
 - REST API routes for movies and favorites
-
-## Demo
-
-[YouTube Tutorial](https://www.youtube.com/watch?v=mqUN4N2q4qY)
 
 ## Setup
 
