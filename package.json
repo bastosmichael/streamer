@@ -29,7 +29,7 @@
     "framer-motion": "^12.34.3",
     "lodash": "^4.17.23",
     "mongodb": "^4.17.2",
-    "mongoose": "^9.2.1",
+    "mongoose": "^9.2.2",
     "next": "^15.5.10",
     "next-auth": "^4.24.13",
     "react": "^19.1.0",
