@@ -24,7 +24,7 @@
     "axios": "^1.16.1",
     "bcrypt": "^6.0.0",
     "eslint": "8.34.0",
-    "eslint-config-next": "13.1.6",
+    "eslint-config-next": "15.5.18",
     "formik": "^2.4.9",
     "framer-motion": "^12.40.0",
     "lodash": "^4.18.1",
