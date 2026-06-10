@@ -28,7 +28,7 @@
     "formik": "^2.4.9",
     "framer-motion": "^12.40.0",
     "lodash": "^4.18.1",
-    "mongodb": "^4.17.2",
+    "mongodb": "^7.3.0",
     "mongoose": "^9.7.0",
     "next": "^15.5.10",
     "next-auth": "^4.24.14",
